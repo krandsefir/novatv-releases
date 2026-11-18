@@ -1,0 +1,7 @@
+{
+    "download_url":  "https://github.com/krandsefir/novatv-releases/releases/download/v0.3.0/novatv-v0.3.0-win64.zip",
+    "notes":  "Fix seek \u0026 HLS demuxer recovery, add series episode navigation buttons, fix Streamtape \u0026 SSL fallback, improve AI control",
+    "tag_name":  "v0.3.0",
+    "version":  "0.3.0",
+    "published_at":  "2026-11-18T10:35:24Z"
+}
