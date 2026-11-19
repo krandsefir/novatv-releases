@@ -1,7 +1,7 @@
 {
-    "download_url":  "https://github.com/krandsefir/novatv-releases/releases/download/v0.3.1/novatv-v0.3.1-win64.zip",
-    "notes":  "Force IPv4 resolution in HTTP client to prevent 20s stalls on Cloudflare streaming domains",
-    "tag_name":  "v0.3.1",
-    "version":  "0.3.1",
-    "published_at":  "2026-11-18T17:26:58Z"
+    "download_url":  "https://github.com/krandsefir/novatv-releases/releases/download/v0.3.2/novatv-v0.3.2-win64.zip",
+    "published_at":  "2026-11-19T09:28:17Z",
+    "tag_name":  "v0.3.2",
+    "version":  "0.3.2",
+    "notes":  "Add SoloLatino channel + player.pelisserieshoy.com extractor; fix stuck error state after episode/server failure"
 }
