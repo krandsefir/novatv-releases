@@ -1,7 +1,7 @@
-{
-  "download_url": "https://github.com/krandsefir/novatv-releases/releases/download/v0.3.3/novatv-v0.3.3-win64.zip",
-  "published_at": "2026-11-21T09:26:49Z",
-  "tag_name": "v0.3.3",
-  "version": "0.3.3",
-  "notes": "SoloLatino-style home discovery layout: featured Hero slider, latest episodes, carousels, genre explorer & paginated catalog."
+﻿{
+    "download_url":  "https://github.com/krandsefir/novatv-releases/releases/download/v0.3.4/novatv-v0.3.4-win64.zip",
+    "published_at":  "2026-11-21T09:43:31Z",
+    "tag_name":  "v0.3.4",
+    "version":  "0.3.4",
+    "notes":  "Fix HLS proxy streams (pelisserieshoy / non-.m3u8 extension or text/plain MIME) playing in 12s chunks and prematurely triggering the next-episode card; force lavf HLS demuxer and guard next-episode card against short segment durations."
 }
