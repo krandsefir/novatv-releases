@@ -1,7 +1,7 @@
 {
-    "download_url":  "https://github.com/krandsefir/novatv-releases/releases/download/v0.3.2/novatv-v0.3.2-win64.zip",
-    "published_at":  "2026-11-19T09:28:17Z",
-    "tag_name":  "v0.3.2",
-    "version":  "0.3.2",
-    "notes":  "Add SoloLatino channel + player.pelisserieshoy.com extractor; fix stuck error state after episode/server failure"
+  "download_url": "https://github.com/krandsefir/novatv-releases/releases/download/v0.3.3/novatv-v0.3.3-win64.zip",
+  "published_at": "2026-11-21T09:26:49Z",
+  "tag_name": "v0.3.3",
+  "version": "0.3.3",
+  "notes": "SoloLatino-style home discovery layout: featured Hero slider, latest episodes, carousels, genre explorer & paginated catalog."
 }
